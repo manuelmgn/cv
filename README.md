@@ -10,7 +10,6 @@ I have dedicated the last years to research in Humanities and I have worked in u
  <a href="https://linkedin.com/in/www.linkedin.com/in/manuel-mgn" target="_blank"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" /></a>
 </p>
 
-<br/>
 
 ## Languages and Tools
 
