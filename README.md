@@ -48,15 +48,3 @@ I have dedicated the last years to research in Humanities and I have worked in u
 </div>
 <br/>
 
-## Github Stats  
-
-<table>
- <tr>
-  <td valign="top" width="50%">
-   <img src="https://github-readme-stats.vercel.app/api?username=manuelmgn&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-  </td>
-  <td valign="top" width="50%">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelmgn&hide_border=true&layout=compact" align="left" style="width: 100%" />
-  </td>
- </tr>
-</table>
