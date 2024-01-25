@@ -5,6 +5,10 @@
 I have dedicated the last years to research in Humanities and I have worked in universities such as Universidade de Santiago de Compostela or Universidad Complutense de Madrid. I recently made the leap into the world of computing, which I have been passionate about since I was a kid.
 <br/>
 
+<a href="https://github.com/https://github.com/manuelmgn" target="_blank"><img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" /></a>
+<a href="https://gitlab.com/gitlab.com/manuelmgn" target="_blank"><img src="https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white" alt=gitlab style="margin-bottom: 5px;" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/manuel-mgn" target="_blank"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" /></a>  
+
 ## Languages and Tools
 
 <br/>
@@ -63,10 +67,3 @@ I have dedicated the last years to research in Humanities and I have worked in u
 </table>  
 
 <br/>  
-
-### Social networks
-
-<a href="https://github.com/https://github.com/manuelmgn" target="_blank"><img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
-</a>
-<a href="https://gitlab.com/gitlab.com/manuelmgn" target="_blank"><img src="https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white" alt=gitlab style="margin-bottom: 5px;" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/manuel-mgn" target="_blank"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" /></a>  
