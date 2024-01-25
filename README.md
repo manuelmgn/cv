@@ -3,10 +3,15 @@
 👋 Hi there, I'm Manuel! I'm starting my career as a web developer.
 
 I have dedicated the last years to research in Humanities and I have worked in universities such as Universidade de Santiago de Compostela or Universidad Complutense de Madrid. I recently made the leap into the world of computing, which I have been passionate about since I was a kid.
+<br/>
 
 ## Languages and Tools
 
+<br/>
+
 ### Learned or used
+
+<br/>
 
 <div align="left">  
  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="30" /></a>  
@@ -17,17 +22,22 @@ I have dedicated the last years to research in Humanities and I have worked in u
  <a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="30" /></a>  
  <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="30" /></a>  
 </div>
+<br/>
 
 ### Currently learning
 
+<br/>
 <div align="left">  
  <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="30" /></a>  
  <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="30" /></a>  
  <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="30" /></a>  
  <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="30" /></a>  
 </div>  
+<br/>
 
 ### Keen to learn
+
+<br/>
 <div align="left">  
  <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="30" /></a>  
  <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="30" /></a>  
@@ -40,6 +50,7 @@ I have dedicated the last years to research in Humanities and I have worked in u
 
 ## Github Stats  
 
+<br/>
 <table>
  <tr>
   <td valign="top" width="50%">
