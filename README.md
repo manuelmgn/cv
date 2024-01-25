@@ -4,12 +4,13 @@
 
 I have dedicated the last years to research in Humanities and I have worked in universities such as Universidade de Santiago de Compostela or Universidad Complutense de Madrid. I recently made the leap into the world of computing, which I have been passionate about since I was a kid.
 
-<br/>
 <p>
  <a href="https://github.com/https://github.com/manuelmgn" target="_blank"><img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" /></a>
  <a href="https://gitlab.com/gitlab.com/manuelmgn" target="_blank"><img src="https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white" alt=gitlab style="margin-bottom: 5px;" /></a>
  <a href="https://linkedin.com/in/www.linkedin.com/in/manuel-mgn" target="_blank"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" /></a>
 </p>
+
+<br/>
 
 ## Languages and Tools
 
@@ -45,12 +46,12 @@ I have dedicated the last years to research in Humanities and I have worked in u
  <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="30" /></a>  
  <a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="30" /></a>  
  <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="30" /></a>  
-</div>  
+</div>
+
 <br/>
 
 ## Github Stats  
 
-<br/>
 <table>
  <tr>
   <td valign="top" width="50%">
@@ -60,5 +61,4 @@ I have dedicated the last years to research in Humanities and I have worked in u
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelmgn&hide_border=true&layout=compact" align="left" style="width: 100%" />
   </td>
  </tr>
-</table>  
-
+</table>
