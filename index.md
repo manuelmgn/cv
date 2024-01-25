@@ -13,7 +13,7 @@ I have dedicated the last years to research in Humanities and I have worked in u
 
 ## Languages and Tools
 
-### Learned or used
+### Learned and used
 
 <div align="left">  
  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="30" /></a>  
