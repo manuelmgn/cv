@@ -48,6 +48,9 @@ I have dedicated the last years to research in Humanities and I have worked in u
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://freesvg.org/img/1541611306.png" alt="XML" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3259614/xsd-icon-md.png" alt="XSD" height="50" /></a>  
+<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://cdn3.iconfinder.com/data/icons/files-67/240/transforming_hml_file_xslt-512.png" alt="XSLT" height="50" /></a>  
 </div>  
 
 
